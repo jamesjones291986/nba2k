@@ -32,6 +32,14 @@ Shooting boost pools) **no longer applies.** The pools are gone. The new model:
 role, **Gold** on secondary must-haves, and let cheap paired attributes ride at
 their (low) thresholds.
 
+**The floors are targets, not guarantees.** Every build has a fixed attribute-point
+budget, so you usually **can't hit every ideal floor at once** — you hit the top
+tier on your signature attributes and fall back to the next tier (Gold → Silver →
+Bronze) on the rest. Each build below lists ideal floors; the point-center section
+has a worked "fallback tiers + priority order" example showing how to decide what to
+cut, verified against real nba2klab cap data. For an exact fitted build, the
+nba2klab MyPlayer Builder Simulator runs on real 2K27 caps.
+
 ---
 
 ## Minimum every player should have (regardless of build)
@@ -292,6 +300,63 @@ Max the big-man core + the playmaking that earns "point." Accept Gold on the sho
 Handle on a 6'10 frame is real points that could instead go to Block or Def
 Rebound. Skip it unless breaking ankles off the bounce is core to how you want to
 play — a point center's value is passing and finishing, not iso handles.
+
+### ⚠️ Reality check — the ideal floors above don't all fit at once
+
+The floors listed for each build are **the number to hit for that tier IF you can
+afford it**. You cannot afford all of them on one build — NBA 2K has a fixed
+attribute-point budget per height/weight/wingspan. The right way to read this doc:
+**hit the HoF/Gold floor on your 1–2 signature attributes, and drop to the next
+tier's number (Silver, even Bronze) on everything else.** A Silver badge is not a
+failure — it's the realistic outcome for secondary attributes.
+
+Verified against nba2klab's recommended center builds (their Attribute Cap Tool,
+real 2K27 cap data). Note how even elite builds land mostly on **Silver/Gold**, not
+HoF, once the budget is spread:
+
+**"Triple-Double Threat" — 7'2 playmaking scorer** (the closest real build to a
+point center):
+
+| Attribute | Actual | Badge tier it yields |
+|-----------|-------:|----------------------|
+| Pass Accuracy | 89 | **Gold** Break Starter, Gold Dimer, Silver Versatile Visionary |
+| Def Rebound | 87 | **Gold** Sync Snatcher (with 82 Off Reb) |
+| Standing Dunk | 90 | Gold Rise Up, Gold Aerial Wizard |
+| Mid-Range | 91 | Gold Post Fade Phenom, Gold Static Middy |
+| Three-Point | 89 | Gold Set and Fire, Silver Limitless |
+| Block | 84 | **Silver** Paint Patroller (not Gold — budget ran out) |
+| Interior Def | 78 | Silver Off-Ball Pest |
+| Ball Handle | 46 | none — this build gave up handles entirely |
+| Vertical | 78 | Silver Pogo Stick, Silver Possession Closer |
+
+The lesson in one line: this 7'2 sacrificed **Ball Handle (46)** completely to fund
+scoring + passing + rebounding, and still only reached **Silver** on its defensive
+badges. A true point center that *keeps* a 90 Ball Handle will have to drop
+something else (likely Block or the jumper) even further.
+
+**Fallback tiers for the point center — what to accept when the budget bites:**
+
+| Attribute | Ideal (HoF/Gold) | Acceptable fallback | Floor (still worth it) |
+|-----------|------------------|---------------------|------------------------|
+| Ball Handle | 90 (Gold HFD) | 81 (Silver HFD) | 71 (Bronze — can still bring it up) |
+| Pass Accuracy | 99 (HoF VV) | 89 (Gold Break Starter/Dimer) | 80 (Silver VV) |
+| Def Rebound | 90 (HoF Sync) | 82 (Gold Sync) | 70 (Silver Sync) |
+| Block | 93 (Gold Paint Patroller) | 84 (Silver PP) | 70 (Bronze PP) |
+| Vertical | 80 (Gold Pogo) | 70 (Silver Pogo) | 63 (Bronze Pogo) |
+| Standing Dunk | 90 (Gold Rise Up) | 81 (Silver) | 60 (Bronze) |
+| Three-Point | 89 (Gold Set and Fire) | 78 (Silver) | 60 (Bronze — playable floor) |
+
+**Priority order when cutting** (keep the top, sacrifice from the bottom):
+1. Pass Accuracy — the whole point of "point" center; keep at 89+ (Gold)
+2. Def Rebound + Vertical — cheap, stack many badges; keep Gold
+3. Ball Handle — 90 if fundable, else 81 Silver (still lets you handle)
+4. Block — accept Silver (84) if needed; Triple-Double Threat proves that's normal
+5. Three-Point — first to drop to Silver (78) or even Bronze; you're not a shooter
+
+> **Want an exact, fully-fitted build?** nba2klab's free MyPlayer Builder Simulator
+> (nba2klab.com/myplayer-builder) runs on real 2K27 cap data — set height 6'10,
+> pick weight/wingspan, and it shows every cap and which badge tier each unlocks.
+> Use it to lock the final numbers; this doc gives you the priorities to feed it.
 
 ---
 
