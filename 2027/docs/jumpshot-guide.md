@@ -138,6 +138,46 @@ secondary shooter, so readability > raw speed here.
 
 ---
 
+## Jumpers by SHOOTING ATTRIBUTE (not just height)
+
+Height picks the *animation pool*; your **3-Point rating** decides how forgiving the
+window is and which bases even function. The setups above assume a high 3PT. If your
+build has a lower 3-ball (common on slashers, point centers, 2-ways), use these
+instead — they're chosen for a **big green window** so a lower rating still greens.
+
+### 3PT rating thresholds (lab-verified)
+- **65–82 3PT:** tight, unforgiving windows, minimal margin. Playable but you *must*
+  pick a big-window base and consider slowing release speed for the boost.
+- **83 3PT:** the real usability line — unlocks Bronze Limitless Range and a window
+  bump. A genuine low-3PT build (83 3PT / 83 Mid) can shoot high % with the right
+  base (one creator hit ~90% in Park at 83/83, mostly bronze badges).
+- **90+ 3PT:** windows open up; the height-based "fast" setups above become viable.
+
+### Best jumpers for LOW 3PT builds (genuine low 3-ball, no mid-range loophole)
+
+| Jumper | Base | Releases | Speed | Best for | Key strength |
+|--------|------|----------|-------|----------|--------------|
+| **Quinton Grimes** | Quinton Grimes | Double Oscar | Full | ISO / all styles | **Massive** green window — the "boogeyman" pick |
+| **Cooper Flagg** | Cooper Flagg | (base grades) | Balanced | Poppers / spot-up | Well-rounded, forgiving timing |
+| **WNBA 7** | WNBA 7 | Beluba + Bassie | **Slowed to ~24** | Poppers / bigs / screeners | Huge window; slowing speed widens it further |
+
+- **Note:** many "low 3PT" jumpers posted online secretly lean on a high **mid-range**
+  rating. The three above work on a genuinely low 3-ball. If your Mid *is* high, you
+  have more options — but don't assume a shot works without checking both stats.
+- **WNBA 7 slowed to 24** is the go-to for a **6'10 point center / popper** with a
+  modest jumper: the slow release trades speed for a bigger, more timeable window,
+  and you're usually open on a pop anyway. This is the better fit than the fast
+  Dwight Powell setup if your 3PT is on the low side.
+
+### Mapping to your 3PT rating
+- **Low 3PT (65–82), or 83 "true low":** Quinton Grimes (ISO) or WNBA 7 slowed
+  (popper/big). Prioritize window over speed.
+- **Mid 3PT (~83–88):** Cooper Flagg or Quinton Grimes; you can start nudging speed up.
+- **High 3PT (89+):** the height-based setups (Grimes/Booker+Garland guards, Ray
+  Allen wings) open up — speed becomes affordable.
+
+---
+
 ## Quick Trigger / No-Dip caveat
 
 2K27 ties **No-Dip shooting to the Quick Trigger badge**. Higher Quick Trigger =
