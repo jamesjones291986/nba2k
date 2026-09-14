@@ -334,6 +334,54 @@ scoring + passing + rebounding, and still only reached **Silver** on its defensi
 badges. A true point center that *keeps* a 90 Ball Handle will have to drop
 something else (likely Block or the jumper) even further.
 
+### Three complete verified center builds (nba2klab, full attribute spreads)
+
+These are real, cap-accurate builds with every attribute confirmed — not floors.
+The **Rise & Dime** is the closest to a playmaking point-center identity; the
+**2-Way Bucket Chaser is a 6'11**, one inch off your target 6'10.
+
+| Attribute | Triple-Double Threat (7'2) | Rise & Dime Paint Protector (7'1) | 2-Way Bucket Chaser (6'11) |
+|-----------|:--:|:--:|:--:|
+| Close Shot | 90 | 75 | 90 |
+| Driving Layup | 60 | 55 | 85 |
+| Driving Dunk | 70 | 75 | 75 |
+| Standing Dunk | 90 | 90 | 65 |
+| Post Control | 91 | 90 | 89 |
+| Mid-Range | 91 | 53 | 89 |
+| Three-Point | 89 | 68 | 94 |
+| Free Throw | 76 | 78 | 91 |
+| **Pass Accuracy** | 89 | **89** | 76 |
+| **Ball Handle** | 46 | 49 | 65 |
+| Speed w/ Ball | 40 | 32 | 75 |
+| Interior Def | 78 | 85 | 68 |
+| Perimeter Def | 35 | 62 | 85 |
+| Steal | 33 | 60 | 71 |
+| Block | 84 | 88 | 60 |
+| Off Rebound | 82 | 88 | 80 |
+| **Def Rebound** | 87 | **94** | 50 |
+| Speed | 65 | 67 | 79 |
+| Agility | 50 | 54 | 73 |
+| Strength | 83 | 83 | 73 |
+| Vertical | 78 | 80 | 80 |
+| Weight / Wingspan | 227 / 7'2 | 237 / 7'7 | 210 / 6'11 |
+| **Badges unlocked** | 34/53 (13G/17S/4B) | 29/53 (**1 HoF**/8G/10S/10B) | 42/53 (11G/15S/16B) |
+
+**How to read these for your 6'10 point center:**
+- **Rise & Dime (7'1)** is the template to copy: 89 Pass, 94 Def Reb, 88 Off Reb,
+  88 Block, 85 Int Def — it hits the **only HoF badge of the three (Sync Snatcher,
+  94/92 reb)** and Gold Break Starter/Dimer/High-Flying Denier. It trades away the
+  jumper (68 3PT) and handle (49) to get there. This is the "playmaking rim-running
+  anchor" build.
+- **2-Way Bucket Chaser (6'11)** is the closest *height* and shows the opposite
+  trade: it keeps a 65 Ball Handle and 94 3PT (Gold Arc Cadence + Set and Fire) but
+  drops rebounding to 50 Def Reb. This is the "stretch/handle" point center.
+- **You can't have both.** At 6'10–7'1 the budget forces a choice between
+  *elite rebounding+defense* (Rise & Dime) and *handle+shooting* (Bucket Chaser).
+  A point center leans Rise & Dime and buys back a little handle with cap breakers.
+- **Cap-breaker path (from nba2klab):** first 5 into Off Reb, next 3 Def Reb, next 5
+  Block, next 5 Driving Dunk — then personal preference. That's how a big pushes
+  Silver badges toward Gold after the base build.
+
 **Fallback tiers for the point center — what to accept when the budget bites:**
 
 | Attribute | Ideal (HoF/Gold) | Acceptable fallback | Floor (still worth it) |
