@@ -382,6 +382,52 @@ The **Rise & Dime** is the closest to a playmaking point-center identity; the
   Block, next 5 Driving Dunk — then personal preference. That's how a big pushes
   Silver badges toward Gold after the base build.
 
+### Target build: rebounder + finisher + defense + passing + 86 Mid
+
+This is the specific spec — elite rebounding, real Driving Dunk, the defense you
+need, passing, and **86+ Mid-Range** for jumper access. **No single verified build
+hits all five at once** — it's a genuine budget conflict (86 Mid competes directly
+with the reb/defense points). The closest verified base is the gamesfuze
+**All-Rounder (7'0)**; the column below adapts it to hit your 86 Mid via a cap
+breaker, showing what you trade.
+
+| Attribute | Gamesfuze All-Rounder (7'0, verified) | Your target (adapted) | Why |
+|-----------|:--:|:--:|-----|
+| Off Rebound | 93 | 90 | elite reb — Gold Sync/Crasher |
+| Def Rebound | 94 | 92 | elite reb — HoF/Gold Sync Snatcher |
+| Driving Dunk | 75 | **80** | real finishing (Uber Athletic Tomahawks at 90 if capped) |
+| Standing Dunk | 75 | 80 | Silver→Gold Rise Up / bigman contact via caps |
+| Block | 84 | 84 | Silver Paint Patroller |
+| Interior Def | 74 | 78 | Silver Off-Ball Pest / Post Lockdown |
+| Pass Accuracy | 90 | 89 | Gold Break Starter + Dimer |
+| **Mid-Range** | 80 | **86** | **your jumper-access target** — Static Middy, better bases |
+| Three-Point | 90 | 78 | drop to Silver Set and Fire to fund Mid + reb |
+| Ball Handle | 55 | 55 | enough to bring it up, not iso |
+| Vertical | 80 | 80 | Gold Pogo; feeds dunk + reb + block |
+| Strength | 94 | 90 | Brick Wall / boxout |
+| Speed / Agility | 64 / 50 | 64 / 50 | fine for a paint big |
+| Weight / Wingspan | 270 / 7'6 | ~250 / 7'4–7'6 | keep wingspan long for reb/block |
+
+**The trade you're making:** to reach **86 Mid-Range** while keeping elite
+rebounding + defense + passing, the points come out of **Three-Point** (90 → 78,
+still Silver Set and Fire) and a little **Strength**. You keep a genuine jumper (86
+Mid unlocks the mid-gated bases like the LaMelo-style shots), elite boards, Gold
+passing, and 80 Driving/Standing Dunk for finishing.
+
+**On the jumper (86 Mid is the right call):** many strong bases are **mid-range
+gated**, not 3PT gated — an 86 Mid / 82 3PT unlocks the accessible high-window bases
+(e.g. LaMelo-style) that a low-mid build can't equip. That's why 86 Mid "makes more
+shots" than chasing 3PT alone. See `jumpshot-guide.md` → low-3PT / mid-gated section.
+
+**Cap-breaker order for THIS build:** Off Reb → Def Reb → Block → Driving Dunk
+(nba2klab's big-man order) — pushes your Silver reb/defense badges toward Gold and
+Driving Dunk toward the 90 Uber Athletic Tomahawk finish after the base is set.
+
+> Ground the exact 6'10 numbers in nba2klab's free MyPlayer Builder Simulator — set
+> 6'10, long wingspan, and confirm 86 Mid + 92 Def Reb both fit the cap before
+> locking. The base is verified (gamesfuze All-Rounder); the 86-Mid adaptation is the
+> documented trade, not a fabricated fit.
+
 **Fallback tiers for the point center — what to accept when the budget bites:**
 
 | Attribute | Ideal (HoF/Gold) | Acceptable fallback | Floor (still worth it) |
