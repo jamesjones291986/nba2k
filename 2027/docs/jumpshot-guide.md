@@ -234,6 +234,22 @@ tool is Premium). What actually drives your FT% is the mechanic below.
   jumper window). The Target build in `build-minimums-guide.md` carries ~78–91 FT
   depending on trade — even 78 is fine for a big; the animation choice matters more.
 
+### Suggested free throw animations to try (starting points)
+These are **starting points chosen by the principle above** (slow, deliberate,
+readable cadence = bigger window), **not a lab-ranked list** — no verified FT ranking
+exists for 2K27. Try these first, keep the one you green most:
+
+| Animation | Why try it |
+|-----------|-----------|
+| **Kevin Durant** | Confirmed slow native release — long, deliberate motion = widest, most readable window. The default "safe" pick. |
+| **Karl Malone / big-man routine FTs** | Very slow, exaggerated pre-shot rhythm — easy to time, fits a center. |
+| **Rip Hamilton / classic set-shot FTs** | Smooth, repeatable, no hitch. |
+| **Your own jumpshot base's FT** (e.g. Ray Allen) | Familiar cadence carries over from your jumper — one rhythm to learn instead of two. |
+| Avoid: **Stephen Curry / fast releases** | Confirmed fast native release — smaller window, no upside since FTs are uncontested. |
+
+**If unsure, start with Kevin Durant** (slowest common release) and only change if the
+cue feels *too* slow to hold. The goal is the widest window you can time, not style.
+
 ### Rhythm vs Button at the line
 - **Rhythm Shooting** (Pro Stick down → up): FTs are graded on **Timing** (must be
   green) + **Tempo** (how well the up-motion matches the shooter's release; good tempo
@@ -251,6 +267,8 @@ tool is Premium). What actually drives your FT% is the mechanic below.
 
 > **Confidence note:** FT mechanics (green-or-miss, Timing+Tempo, rating widens the
 > window, meter-off boost) are sourced from nerdschalk + Mike Wang's shooting posts.
-> There is **no verified best-FT-animation ranking** for 2K27 — that's a genuine gap,
-> not an omission; pick a slow readable motion and practice it. Avoid third-party
-> "auto-green"/Cronus scripts — they're against 2K's terms of service.
+> The **named animation suggestions above are reasoning-based, not lab-ranked** —
+> there is no verified best-FT-animation test for 2K27 (nba2klab's FT tool is
+> Premium). They're picked on the confirmed principle that slow releases (KD) give
+> bigger windows than fast ones (Curry). Try them, keep what you green. Avoid
+> third-party "auto-green"/Cronus scripts — they're against 2K's terms of service.
