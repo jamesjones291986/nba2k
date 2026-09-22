@@ -160,3 +160,77 @@ guard-style size-up; you may be limited to basic/big-man packages.
 > nba2klab Premium (Koza2K testing) and isn't fully reproduced here — this doc
 > covers requirements + the free size-up rankings. 2K27 is new; expect animation
 > tuning in patches.
+
+
+---
+
+## OTHER DRIBBLE MOVE-TYPES (Crossover, Behind-the-Back, etc.)
+
+Beyond dribble style + size-up, 2K27 has ~28 more move-types (crossover, between-legs
+cross, cross spin, behind-the-back, behind-back launch, hesitations, spins, stepbacks,
+escapes, combos). All gate on **Ball Handle + height**. The per-move *rankings* are
+nba2klab Premium, but the **requirements** below are verified — use them to see what
+your build can equip. The same players cluster at the same gates across every
+move-type, so these two verified tables (Crossover, Behind-the-Back) are the template.
+
+### Crossover — Ball Handle + height (verified)
+
+| Package | BH | Height | Tier |
+|---------|---:|--------|------|
+| Stephen Curry / Trae Young | 92 | ≤6'4 | elite guard |
+| Shai Gilgeous-Alexander | 91 | ≤6'9 | elite, wing-legal |
+| Damian Lillard / Kyrie Irving | 90 | ≤6'4 | elite guard |
+| Kobe Bryant | 88 | 6'5–6'9 | elite wing |
+| Russell Westbrook | 87 | ≤6'4 | |
+| Ja Morant / James Harden / Jordan Poole / Mike Conley / Paul George | 86 | varies (Harden ≤6'9) | strong |
+| Allen Iverson / Coby White / Donovan Mitchell / Zach LaVine / Rob Dillingham | 85 | varies | strong |
+| Brandon Ingram / Darius Garland / Luka Doncic | 84 | varies | |
+| Tyrese Maxey | 82 | ≤6'9 | |
+| Chris Paul / Kawhi / LeBron / Jimmy Butler / Scoot / Terrence Ross / Fultz | 80 | ≤6'9 | **value** |
+| Cole Anthony / Shaedon Sharpe | 78 | varies | |
+| Anthony Edwards / Josh Giddey | 76 | ≤6'9 | |
+| Michael Jordan / Jayson Tatum / Jason Williams / D'Lo / DeRozan / Julius Randle | 75 | varies | value |
+| Kevin Durant / Zion / Jaquez / Kuzma | 70 | KD & Zion 6'5+ | wing/big |
+| **Paolo Banchero** | 75 | 6'10+ | **best big crossover** |
+| **Victor Wembanyama** | 68 | 6'10+ | **best-value big** |
+| Pro / Normal / Basic | 70 / 40 / 0 | wide | fallback |
+
+### Behind-the-Back — Ball Handle + height (verified)
+
+| Package | BH | Height | Tier |
+|---------|---:|--------|------|
+| Stephen Curry / Trae Young | 92 | ≤6'4 | elite guard |
+| Shai Gilgeous-Alexander | 91 | ≤6'9 | elite, wing-legal |
+| Kyrie Irving / Damian Lillard | 90 | ≤6'4 | elite guard |
+| Kobe Bryant | 88 | 6'5–6'9 | elite wing |
+| Russell Westbrook | 87 | ≤6'4 | |
+| Ja Morant / James Harden / Jordan Poole / Paul George | 86 | varies (Harden ≤6'9) | strong |
+| Allen Iverson / Coby White / Zach LaVine | 85 | varies | strong |
+| Darius Garland / Luka Doncic | 84 | varies | |
+| Tyrese Maxey | 82 | ≤6'9 | |
+| Chris Paul / Kawhi / LeBron / Jimmy Butler / Derrick White / Fultz | 80 | ≤6'9 | **value** |
+| Anthony Edwards / Josh Giddey | 76 | ≤6'9 | |
+| Andrew Wiggins / Jayson Tatum / DeRozan / Scottie Pippen | 75 | ≤6'9 | value |
+| **Domantas Sabonis** | 75 | 6'10+ | best big behind-back |
+| Kevin Durant | 70 | 6'5+ | |
+| Pro / Normal / Basic | 70 / 40 / 0 | wide | fallback |
+| *Behind-the-Back Launch* variant exists with the same gates (AI/Coby 85, KD 70, etc.) | | | |
+
+### The gate pattern (applies to ALL move-types)
+
+Every dribble move-type uses the same tiering — so once you know your Ball Handle and
+height, you know roughly what you can equip in **any** category (hesi, spin, stepback,
+escapes, combos included):
+
+| Your build | Ball Handle | Best move-type tier you unlock |
+|------------|------------:|--------------------------------|
+| **Elite guard ≤6'4** | 90–92 | Curry / Trae / Kyrie / Lillard — the glitchiest in every category |
+| **Playmaking guard/wing ≤6'9** | 86–91 | SGA (91), Harden (86), Ja/Poole (86) — top wing-legal moves |
+| **2-way / balanced ≤6'9** | 80–85 | Chris Paul / Kawhi / LeBron (80) — great value tier |
+| **Low-BH wing ≤6'9** | 75 | MJ / Tatum / DeRozan (75) — solid, cheap |
+| **Point center / big 6'10+** | 68–75 | **Wemby (68)**, Paolo (75), Sabonis (75) — the only bigs with real handle moves |
+
+**For the 6'10 point center:** at 6'10+ your crossover/behind-back options collapse to
+the **big-only** entries — **Wembanyama (68 BH)** is the best-value handle move, Paolo
+(75) the best if you can afford it. Guard moves (Curry, Kyrie, etc.) are **hard-locked
+out by height**, no matter your Ball Handle. This is the same size-up cliff noted above.
