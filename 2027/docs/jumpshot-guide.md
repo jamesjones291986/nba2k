@@ -211,3 +211,46 @@ result. Check your build before blaming the jumper.
 > community, not exhaustively lab-ranked — nba2klab's per-jumper green-window
 > rankings are Premium (Jumper Recommender). 2K27 is early; expect shooting tuning
 > in patches.
+
+
+---
+
+## FREE THROWS
+
+Free throws in 2K27 are green-or-miss like field goals, but uncontested and
+self-paced — so the "best" free throw is **the one whose cadence you can repeat**,
+not a specific animation. There's no meaningful ranked list of FT animations (they're
+uncontested, so the community hasn't tested them like jumpers; nba2klab's free-throw
+tool is Premium). What actually drives your FT% is the mechanic below.
+
+### How to pick your free throw animation
+- **Pick a slow, deliberate release you can read.** Unlike jump shots (where speed
+  beats contests), FTs are uncontested — there's zero benefit to a fast release. A
+  slower, smoother FT animation gives a bigger, more readable timing window.
+- **Match it to a real player whose rhythm you recognize** (set it in the animation
+  menu, practice in *Learn 2K*). Consistency comes from one familiar cadence, not the
+  "best" name.
+- **Higher Free Throw rating = wider green window** (same as 3PT rating widens the
+  jumper window). The Target build in `build-minimums-guide.md` carries ~78–91 FT
+  depending on trade — even 78 is fine for a big; the animation choice matters more.
+
+### Rhythm vs Button at the line
+- **Rhythm Shooting** (Pro Stick down → up): FTs are graded on **Timing** (must be
+  green) + **Tempo** (how well the up-motion matches the shooter's release; good tempo
+  *widens* the green window). The FT line is the easiest place to groove tempo since
+  it's static and unpressured.
+- **Button Shooting** is a single release judgment — simpler, and perfectly good for
+  FTs. Use whichever you shoot jumpers with; no reason to split.
+- **Meter OFF** still gives the ~10% green-window boost at the line too, once your
+  cue is anchored.
+
+### Settings for FTs (same as your jumper)
+- Visual cue: **Release** (later reference, easier to read on a slow FT motion)
+- Fix Early/Late by shifting release timing; fix Fast/Slow Tempo by easing/quickening
+  the up-motion — **change one at a time.**
+
+> **Confidence note:** FT mechanics (green-or-miss, Timing+Tempo, rating widens the
+> window, meter-off boost) are sourced from nerdschalk + Mike Wang's shooting posts.
+> There is **no verified best-FT-animation ranking** for 2K27 — that's a genuine gap,
+> not an omission; pick a slow readable motion and practice it. Avoid third-party
+> "auto-green"/Cronus scripts — they're against 2K's terms of service.
